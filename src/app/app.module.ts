@@ -55,6 +55,7 @@ import { NotificationComponent } from './components/notification/notification.co
 import { GalleryviewerComponent } from './components/galleryviewer/galleryviewer.component';
 import { ScorecheckerComponent } from './components/scorechecker/scorechecker.component';
 import { RGBtoHexConverterComponent } from './rgbto-hex-converter/rgbto-hex-converter.component';
+import { SpeedConverterComponent } from './speed-converter/speed-converter.component';
 
 
 @NgModule({
@@ -111,6 +112,7 @@ import { RGBtoHexConverterComponent } from './rgbto-hex-converter/rgbto-hex-conv
     GalleryviewerComponent,
     ScorecheckerComponent,
     RGBtoHexConverterComponent,
+    SpeedConverterComponent,
 
 
 
