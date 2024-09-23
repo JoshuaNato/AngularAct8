@@ -58,6 +58,7 @@ import { RGBtoHexConverterComponent } from './rgbto-hex-converter/rgbto-hex-conv
 import { SpeedConverterComponent } from './speed-converter/speed-converter.component';
 import { LeapYearCheckerComponent } from './leap-year-checker/leap-year-checker.component';
 import { DayDifferenceCalculatorComponent } from './day-difference-calculator/day-difference-calculator.component';
+import { PythagoreanTheoremSolverComponent } from './pythagorean-theorem-solver/pythagorean-theorem-solver.component';
 
 
 @NgModule({
@@ -117,6 +118,7 @@ import { DayDifferenceCalculatorComponent } from './day-difference-calculator/da
     SpeedConverterComponent,
     LeapYearCheckerComponent,
     DayDifferenceCalculatorComponent,
+    PythagoreanTheoremSolverComponent,
 
 
 
