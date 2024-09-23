@@ -54,6 +54,7 @@ import { CamscannerComponent } from './components/camscanner/camscanner.componen
 import { NotificationComponent } from './components/notification/notification.component';
 import { GalleryviewerComponent } from './components/galleryviewer/galleryviewer.component';
 import { ScorecheckerComponent } from './components/scorechecker/scorechecker.component';
+import { RGBtoHexConverterComponent } from './rgbto-hex-converter/rgbto-hex-converter.component';
 
 
 @NgModule({
@@ -109,6 +110,7 @@ import { ScorecheckerComponent } from './components/scorechecker/scorechecker.co
     NotificationComponent,
     GalleryviewerComponent,
     ScorecheckerComponent,
+    RGBtoHexConverterComponent,
 
 
 
