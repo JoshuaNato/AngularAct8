@@ -61,6 +61,7 @@ import { DayDifferenceCalculatorComponent } from './day-difference-calculator/da
 import { PythagoreanTheoremSolverComponent } from './pythagorean-theorem-solver/pythagorean-theorem-solver.component';
 import { LanguageTranslatorComponent } from './language-translator/language-translator.component';
 import { VirtualPetComponent } from './virtual-pet/virtual-pet.component';
+import { DailyJournalComponent } from './daily-journal/daily-journal.component';
 
 
 @NgModule({
@@ -123,6 +124,7 @@ import { VirtualPetComponent } from './virtual-pet/virtual-pet.component';
     PythagoreanTheoremSolverComponent,
     LanguageTranslatorComponent,
     VirtualPetComponent,
+    DailyJournalComponent,
 
 
 
