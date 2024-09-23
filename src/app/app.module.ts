@@ -56,6 +56,7 @@ import { GalleryviewerComponent } from './components/galleryviewer/galleryviewer
 import { ScorecheckerComponent } from './components/scorechecker/scorechecker.component';
 import { RGBtoHexConverterComponent } from './rgbto-hex-converter/rgbto-hex-converter.component';
 import { SpeedConverterComponent } from './speed-converter/speed-converter.component';
+import { LeapYearCheckerComponent } from './leap-year-checker/leap-year-checker.component';
 
 
 @NgModule({
@@ -113,6 +114,7 @@ import { SpeedConverterComponent } from './speed-converter/speed-converter.compo
     ScorecheckerComponent,
     RGBtoHexConverterComponent,
     SpeedConverterComponent,
+    LeapYearCheckerComponent,
 
 
 
