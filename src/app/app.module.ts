@@ -62,6 +62,7 @@ import { PythagoreanTheoremSolverComponent } from './pythagorean-theorem-solver/
 import { LanguageTranslatorComponent } from './language-translator/language-translator.component';
 import { VirtualPetComponent } from './virtual-pet/virtual-pet.component';
 import { DailyJournalComponent } from './daily-journal/daily-journal.component';
+import { ExpenseSplitterComponent } from './expense-splitter/expense-splitter.component';
 
 
 @NgModule({
@@ -125,6 +126,7 @@ import { DailyJournalComponent } from './daily-journal/daily-journal.component';
     LanguageTranslatorComponent,
     VirtualPetComponent,
     DailyJournalComponent,
+    ExpenseSplitterComponent,
 
 
 
