@@ -59,6 +59,7 @@ import { SpeedConverterComponent } from './speed-converter/speed-converter.compo
 import { LeapYearCheckerComponent } from './leap-year-checker/leap-year-checker.component';
 import { DayDifferenceCalculatorComponent } from './day-difference-calculator/day-difference-calculator.component';
 import { PythagoreanTheoremSolverComponent } from './pythagorean-theorem-solver/pythagorean-theorem-solver.component';
+import { LanguageTranslatorComponent } from './language-translator/language-translator.component';
 
 
 @NgModule({
@@ -119,6 +120,7 @@ import { PythagoreanTheoremSolverComponent } from './pythagorean-theorem-solver/
     LeapYearCheckerComponent,
     DayDifferenceCalculatorComponent,
     PythagoreanTheoremSolverComponent,
+    LanguageTranslatorComponent,
 
 
 
