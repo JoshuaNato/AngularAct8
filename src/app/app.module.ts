@@ -57,6 +57,7 @@ import { ScorecheckerComponent } from './components/scorechecker/scorechecker.co
 import { RGBtoHexConverterComponent } from './rgbto-hex-converter/rgbto-hex-converter.component';
 import { SpeedConverterComponent } from './speed-converter/speed-converter.component';
 import { LeapYearCheckerComponent } from './leap-year-checker/leap-year-checker.component';
+import { DayDifferenceCalculatorComponent } from './day-difference-calculator/day-difference-calculator.component';
 
 
 @NgModule({
@@ -115,6 +116,7 @@ import { LeapYearCheckerComponent } from './leap-year-checker/leap-year-checker.
     RGBtoHexConverterComponent,
     SpeedConverterComponent,
     LeapYearCheckerComponent,
+    DayDifferenceCalculatorComponent,
 
 
 
