@@ -63,6 +63,7 @@ import { LanguageTranslatorComponent } from './language-translator/language-tran
 import { VirtualPetComponent } from './virtual-pet/virtual-pet.component';
 import { DailyJournalComponent } from './daily-journal/daily-journal.component';
 import { ExpenseSplitterComponent } from './expense-splitter/expense-splitter.component';
+import { MindMapComponent } from './mind-map/mind-map.component';
 
 
 @NgModule({
@@ -127,6 +128,7 @@ import { ExpenseSplitterComponent } from './expense-splitter/expense-splitter.co
     VirtualPetComponent,
     DailyJournalComponent,
     ExpenseSplitterComponent,
+    MindMapComponent,
 
 
 
