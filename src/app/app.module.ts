@@ -60,6 +60,7 @@ import { LeapYearCheckerComponent } from './leap-year-checker/leap-year-checker.
 import { DayDifferenceCalculatorComponent } from './day-difference-calculator/day-difference-calculator.component';
 import { PythagoreanTheoremSolverComponent } from './pythagorean-theorem-solver/pythagorean-theorem-solver.component';
 import { LanguageTranslatorComponent } from './language-translator/language-translator.component';
+import { VirtualPetComponent } from './virtual-pet/virtual-pet.component';
 
 
 @NgModule({
@@ -121,6 +122,7 @@ import { LanguageTranslatorComponent } from './language-translator/language-tran
     DayDifferenceCalculatorComponent,
     PythagoreanTheoremSolverComponent,
     LanguageTranslatorComponent,
+    VirtualPetComponent,
 
 
 
